@@ -22,9 +22,6 @@ To explore the DSA Linked List Application, follow these steps:
 - **HTML**
 - **CSS**
 
-## Folder Structure
-
-Describe the structure of your project's folders.
 
 ## Contribution Guidelines
 
