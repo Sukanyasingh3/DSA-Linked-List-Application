@@ -24,6 +24,7 @@ To explore the DSA Linked List Application, follow these steps:
 
 
 ## Contribution Guidelines
+![GIT3](https://github.com/Sukanyasingh3/DSA-Linked-List-Application/assets/113462236/0e07e220-c14e-46a2-8ec6-a7dcbea9bed6)
 
 Contributions are welcome! If you'd like to contribute to the DSA Linked List Application, please follow these guidelines:
 
